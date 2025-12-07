@@ -2,14 +2,14 @@
 
 **Disciplina:** Introdução à Inteligência Artificial  
 **Semestre:** 2025.2  
-**Professor:** [Nome do Professor]  
-**Turma:** [T03 / T04]  
+**Professor:** ANDRE LUIS FONSECA FAUSTINO  
+**Turma:** T03
 
 ### Integrantes do Grupo
 
-* Nome Completo (Matrícula)
-* Nome Completo (Matrícula)
-* Nome Completo (Matrícula)
+* Elielson Urbano Aires da Silva (20250024296)
+* Jadilson Igor de Campos Lopes (20240034172)
+* Wallyson Matheus Souza de Oliveira (20240046647)
 
 ---
 
