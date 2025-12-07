@@ -31,7 +31,7 @@ Certifique-se de ter o **Python 3.8+** instalado.
 
 1.  Clone este repositório (ou baixe a pasta):
     ```bash
-    git clone [https://github.com/seu-usuario/analise-sentimentos-ia.git](https://github.com/seu-usuario/analise-sentimentos-ia.git)
+    git clone [https://github.com/Jahomme/analise-sentimentos-ia](https://github.com/Jahomme/analise-sentimentos-ia)
     cd analise-sentimentos-ia
     ```
 
